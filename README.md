@@ -2,7 +2,7 @@
 
 https://github.com/ReMinecraftPE
 
-WEB_SRV_ROOT_DIR contains the necessary patch_map.txt to tell the tool what to patch. It should also contain the files and directories that are stated in the keys of the key-value pair, but we cannot host these on GitHub legally.
+**WEB_SRV_ROOT_DIR** contains the necessary patch_map.txt to tell the tool what to patch. It should also contain the files and directories that are stated in the keys of the key-value pair, but we cannot host these on GitHub legally.
 You must use a 3rd party content server (see the source code).
 
 Some unused functions remain as remnants that could help if one wants to improve/optimize the way it works (maybe download a ZIP first and then unpack/patch everything), or do some things in a better/cleaner way. (This project was done in a bit of a rush...)
